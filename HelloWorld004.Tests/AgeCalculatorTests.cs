@@ -23,7 +23,7 @@ namespace HelloWorld004.Tests
         }
 
         [Test]
-        public void CalculateAgeTo100_Age1_Returns99Yearss()
+        public void CalculateAgeTo100_Age1_Returns99Years()
         {
             // Arrange
             int inputAge = 1;
